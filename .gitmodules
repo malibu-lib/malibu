@@ -1,0 +1,3 @@
+[submodule "malibu-base"]
+	path = malibu-base
+	url = git@github.com:malibu-lib/malibu-base.git
