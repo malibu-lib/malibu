@@ -4,3 +4,6 @@
 [submodule "malibu-support"]
 	path = malibu-support
 	url = git@github.com:malibu-lib/malibu-support.git
+[submodule "malibu-gat"]
+	path = malibu-gat
+	url = git@github.com:malibu-lib/malibu-gat.git
